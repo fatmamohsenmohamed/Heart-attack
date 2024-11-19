@@ -21,7 +21,8 @@ To view the dashboard:
 3. **Explore Data**: Use the interactive filters and slicers in Power BI to explore the relationships between the different variables, such as how smoking or diabetes might correlate with the likelihood of a heart attack.
 
 ## Screenshots
-![Power BI Heart Attack Dashboard](![heartt](https://github.com/user-attachments/assets/1d2879c7-d838-4277-8b70-9e74bfbcae22)
+![Power BI Heart Attack Dashboard](![heartt](https://github.com/user-attachments/assets/b6a2aaac-39e7-4166-8183-0a778e97aacf)
+
 )
 
 ## Data Sources
