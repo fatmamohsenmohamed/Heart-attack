@@ -1,6 +1,4 @@
 # Heart-attack
-Heart attack analysis 
-Here's a **README** template for your **Heart Attack Analysis Power BI Dashboard**, including the relevant features and instructions based on the columns you mentioned:
 
 ---
 
